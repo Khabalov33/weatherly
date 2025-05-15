@@ -8,7 +8,7 @@
 - 🧑‍💻 [TypeScript](https://www.typescriptlang.org/)
 - ⚡ [Vite](https://vitejs.dev/)
 - 🎨 [Tailwind CSS](https://tailwindcss.com/)
-- 🌐 [WeatherAPI] (https://www.weatherapi.com/)
+- 🌐 [WeatherAPI](https://www.weatherapi.com/)
 - 🌈 [Lucide Icons](https://lucide.dev/)
 
 ## 📸 Скриншоты
