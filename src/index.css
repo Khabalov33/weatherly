@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-app: 400px;
+  --font-app: "Montserrat", sans-serif;
+}
+
+body {
+  @apply bg-gradient-to-b from-[#F5EEFF] to-[#DAC3F8] h-screen
+}
